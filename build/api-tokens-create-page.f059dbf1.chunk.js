@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzeina_project=self.webpackChunkzeina_project||[]).push([[4299],{1880:(r,t,e)=>{e.r(t),e.d(t,{default:()=>a});var E=e(67294),s=e(92417),_=e(86706),n=e(36364),P=e(92458);const a=()=>{const o=(0,_.v9)(n._);return E.createElement(s.O4,{permissions:o.settings["api-tokens"].create},E.createElement(P.Z,null))}}}]);
